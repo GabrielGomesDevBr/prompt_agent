@@ -248,10 +248,3 @@ A aplicação implementa a métrica "Taxa de Respostas Precisas (%)" para medir 
 - Em alguns sistemas, pode ser necessário usar `python3` em vez de `python`.
 - Se o script de configuração falhar, tente criar o ambiente manualmente conforme as instruções no Método 3.
 
-## Licença
-
-[Especificar a licença, se aplicável]
-
-## Contato
-
-[Informações de contato, se necessário] 

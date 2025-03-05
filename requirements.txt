@@ -1,0 +1,11 @@
+# Dependências para o Agente de Engenharia de Prompt
+# Este projeto usa principalmente bibliotecas padrão do Python
+# O arquivo requirements.txt é fornecido para documentação e futuras extensões
+
+# Nenhuma dependência externa é necessária para a versão básica 
+
+# Bibliotecas necessárias para o projeto
+openai>=1.0.0  # SDK oficial da OpenAI para interagir com os modelos
+pyyaml>=6.0    # Para leitura de arquivos de configuração YAML
+python-dotenv>=1.0.0  # Para gerenciar variáveis de ambiente (opcional)
+streamlit>=1.30.0  # Para a interface web interativa 

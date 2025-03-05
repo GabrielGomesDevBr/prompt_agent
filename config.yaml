@@ -1,5 +1,5 @@
 api_key:
-  key:""
+  key:"sua-chave-api-aqui"
 model:
   name: "gpt-4o-mini"    # "gpt-4o"  "gpt-3.5-turbo"  "o3-mini" "o1-mini" "gpt-4o-mini"
   
